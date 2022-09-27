@@ -1,7 +1,7 @@
 - Hi, I’m @Retrix165 / Reid Smith
 - I’m interested in cryptography, memory compression, and pathfinding algorithms. 
-- I’m currently learning better python programming practices and how pathfinding algorithms compare.
-- I’m looking to collaborate on pathfinding algorithms such as Theta*, HPA*, and D*
+- I’m currently learning about C++ best practices as well as cryptography.
+- I’m looking to collaborate on projects/research on anything you're invested in. Send me an email
 - How to reach me: // 'rsmithretrix' AT 'outlook' DOT 'com' //
 
 <!---
