@@ -1,6 +1,6 @@
 - Hi, I’m @Retrix165 / Reid Smith
-- I’m interested in cryptography, web development, and pathfinding algorithms.
-- I'm currently working with my school's ACM Research team to analyze logical vulnerabilities in Ethereum smart contracts and personally on writing a virtual RISC-V 32-bit CPU using Verilog.
+- I’m interested in offensive security, cryptography, computer vision, and quantum computing.
+- I'm currently working with my school's CTF team to compete this fall as well as working through HTB/other platforms.
 - I’m looking to collaborate on projects/research on anything you're invested in. Send me an email
 - How to reach me: // 'rsmithretrix' AT 'outlook' DOT 'com' //
 
